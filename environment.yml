@@ -1,0 +1,12 @@
+name: langchain-project
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - python-dotenv
+  - pip:
+      - langchain-openai
+      - langgraph
+      - langchain-mcp-adapters
