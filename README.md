@@ -1,6 +1,6 @@
 # AI Web Scraper Agent
 
-Projeto simples que demonstra a integração de um agente baseado em **GPT-4** com ferramentas de **web scraping**, usando **LangChain**, **LangGraph** e o **Firecrawl MCP**.
+Projeto que demonstra a integração de um agente baseado em **GPT-4** com ferramentas de **web scraping**, usando **LangChain**, **LangGraph** e o **Firecrawl MCP**.
 
 ## Funcionalidades
 
